@@ -15,11 +15,11 @@ This SIEM is all based on micro services, it is built upon Docker and deployed o
 
 ✔️ SCADA/ICS Protocols support (S7comm, Modbus, DNP3, IEC60870 T101 and 104, Bacnet, Profinet, Enip)
 
-✔️ Alerting system (Elastalert project)
+✔️ Alerting system (Elastalert)
 
 ✔️ Supports many vendors like: Fortinet, Cisco, Kaspersky, Linux, Windows and etc.
 
-✔️ Incident Response Integration (Thehive4 project)
+✔️ Incident Response Integration (Thehive4)
 
 ✔️ and a lot more ...
 
