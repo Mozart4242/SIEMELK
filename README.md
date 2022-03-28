@@ -11,7 +11,7 @@ This SIEM is all based on micro services, it is built upon Docker and deployed o
 
 ✔️ Embeded IDPS Service (suricata)
 
-✔️ Netflow and Sflow support
+✔️ Netflow and Sflow support (Elastiflow)
 
 ✔️ SCADA/ICS Protocols support (S7comm, Modbus, DNP3, IEC60870 T101 and 104, Bacnet, Profinet, Enip)
 
