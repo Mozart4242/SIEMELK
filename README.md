@@ -1,4 +1,4 @@
-## SIEMELK
+# SIEMELK
 
 COMING SOON,
 
@@ -6,7 +6,7 @@ SIEMELK is a SIEM solution based on ELK stack with many added alternative applic
 
 This SIEM is all based on micro services, it is built upon Docker and deployed on linux.
 
-# Main Features
+## Main Features
 ✔️ Host and Network Threat Hunting (sysmon + wazuh HIDS)
 
 ✔️ Embeded IDPS Service (suricata)
