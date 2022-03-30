@@ -17,14 +17,25 @@ This SIEM is all based on micro services, it is built upon Docker and deployed o
 
 ✔️ Alerting system (Elastalert)
 
-✔️ Supports many vendors like: Fortinet, Cisco, Kaspersky, Linux, Windows and etc.
+✔️ the SIEM module supports:
+- Fortinet (Fortigate, Fortiweb)
+- Sophos (sophos, cyberoam)
+- Cisco (Routers, Switches, ASA, FTD, FMC)
+- Kaspersky (Kaspersky Security Center)
+- Linux (SSH, apache2, nginx, FIM, SCA)
+- Windows (RDP, sysmon, security events)
+- Web Vulnerability Scanning (netsparker)
+- Netflow
+- Suricata
 
 ✔️ Incident Response Integration (Thehive4)
 
+✔️ C&C connections detection
+
 ✔️ and a lot more ...
 
-## How to use a trial version ?
-You can request a free 1 month trial version and benefit all features.
+## How to use?
+You can simply download the provided iso image and install the product.
 
 ## More to come
 This Repository is not completed and i am working on it. once the product is ready i will update this Repo.
