@@ -6,6 +6,8 @@ SIEMELK is a SIEM solution based on ELK stack with many added alternative applic
 
 This SIEM is all based on micro services, it is built upon Docker and deployed on linux.
 
+**Its beyond a SIEM, we can call it a Next Generation SIEM.**
+
 ## Main Features
 ✔️ Host and Network Threat Hunting (sysmon + wazuh HIDS)
 
@@ -13,7 +15,7 @@ This SIEM is all based on micro services, it is built upon Docker and deployed o
 
 ✔️ Netflow and Sflow support (Elastiflow)
 
-✔️ SCADA/ICS Protocols support (S7comm, Modbus, DNP3, IEC60870 T101 and 104, Bacnet, Profinet, Enip)
+✔️ SCADA/ICS Protocols support (S7comm, Modbus, DNP3, IEC60870-T101/104, Bacnet, Profinet, ENIP, )
 
 ✔️ Alerting system (Elastalert)
 
@@ -22,18 +24,24 @@ This SIEM is all based on micro services, it is built upon Docker and deployed o
 - Sophos (sophos, cyberoam)
 - Cisco (Routers, Switches, ASA, FTD, FMC)
 - Kaspersky (Kaspersky Security Center)
-- Linux (SSH, apache2, nginx, FIM, SCA)
-- Windows (RDP, sysmon, security events)
+- Linux (security events, FIM)
+- Windows (sysmon, security events)
 - Web Vulnerability Scanning (netsparker)
 - Netflow
 - Suricata
+- Extended detection and response (XDR) - Elastic security
+- Host security analysis - Elastic security
+- Network security analysis - Elastic security
+- Detection engine (e.g., correlation, indicator match, threshold) - Elastic security
+- Malware prevention - Elastic security
 
-✔️ Cyber Attacks Detections:
-- RDP and SSH and TELNET bruteforce attacks detection
-- Malware Process detection
-- Login bruteforce attack detection
-- MITRE ATT&CK
-- DNP3 attacks detection
+✔️ What SIEMELK can detect purely:
+- RDP and SSH and TELNET bruteforce attacks
+- Login bruteforce attack 
+- MITRE ATT&CK Tactics and techniques
+- DNP3 attacks
+- Portsecurity, ARP inspection, DHCP snooping
+
 
 ✔️ Incident Response Integration (Thehive4)
 
