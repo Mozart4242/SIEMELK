@@ -17,7 +17,7 @@ This SIEM is all based on micro services, it is built upon Docker and deployed o
 
 ✔️ Alerting system (Elastalert)
 
-✔️ the SIEM module supports:
+✔️ The SIEM module supports:
 - Fortinet (Fortigate, Fortiweb)
 - Sophos (sophos, cyberoam)
 - Cisco (Routers, Switches, ASA, FTD, FMC)
@@ -27,6 +27,13 @@ This SIEM is all based on micro services, it is built upon Docker and deployed o
 - Web Vulnerability Scanning (netsparker)
 - Netflow
 - Suricata
+
+✔️ Cyber Attacks Detections:
+- RDP and SSH and TELNET bruteforce attacks detection
+- Malware Process detection
+- Login bruteforce attack detection
+- MITRE ATT&CK
+- DNP3 attacks detection
 
 ✔️ Incident Response Integration (Thehive4)
 
