@@ -36,8 +36,6 @@ This SIEM is all based on micro services, it is built upon Docker and deployed o
 - Network security analysis - Elastic security
 - Detection engine (e.g., correlation, indicator match, threshold) - Elastic security
 - Malware prevention - Elastic security
-
-✔️ What SIEMELK can detect purely:
 - RDP and SSH and TELNET bruteforce attacks
 - Login bruteforce attack 
 - MITRE ATT&CK tactics and techniques
