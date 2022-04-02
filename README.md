@@ -19,14 +19,16 @@ This SIEM is all based on micro services, it is built upon Docker and deployed o
 
 ✔️ Alerting system (Elastalert)
 
+✔️ Embeded Vulnerability Scanning system (Openvas)
+
 ✔️ The SIEM module supports:
 - Fortinet (Fortigate, Fortiweb)
-- Sophos (sophos, cyberoam)
+- Sophos (Sophos, Cyberoam)
 - Cisco (Routers, Switches, ASA, FTD, FMC)
 - Kaspersky (Kaspersky Security Center)
 - Linux (security events, FIM)
-- Windows (sysmon, security events)
-- Web Vulnerability Scanning (netsparker)
+- Windows (Sysmon, Security events)
+- Web Vulnerability Scanning (Netsparker)
 - Netflow
 - Suricata
 - Extended detection and response (XDR) - Elastic security
@@ -38,7 +40,7 @@ This SIEM is all based on micro services, it is built upon Docker and deployed o
 ✔️ What SIEMELK can detect purely:
 - RDP and SSH and TELNET bruteforce attacks
 - Login bruteforce attack 
-- MITRE ATT&CK Tactics and techniques
+- MITRE ATT&CK tactics and techniques
 - DNP3 attacks
 - Portsecurity, ARP inspection, DHCP snooping
 
