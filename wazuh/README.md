@@ -1,5 +1,5 @@
 ## Wazuh
-I have cretaed some files to empower [wazuh](https://wazuh.com/) to do more threat hunting.
+I have created some files to empower [wazuh](https://wazuh.com/) to do more threat hunting.
 
 - **local_rules.xml** is the custome rules for wazuh to detect windows security events with MITRE ATT&CK detection.
 
