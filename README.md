@@ -1,5 +1,9 @@
 # SIEMELK
 
+<p align="center">
+ <img alt="SIEMELK Logo" src="siemelk-logo.jpg">
+</p>
+
 COMING SOON,
 
 SIEMELK is a SIEM solution based on ELK stack with many added alternative application's and customization's. It's free and powerful, You will see 😊
