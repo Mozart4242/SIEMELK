@@ -17,9 +17,11 @@ This SIEM is all based on micro services, it is built upon Docker and deployed o
 
 ✔️ SCADA/ICS Protocols support (S7comm, Modbus, DNP3, IEC60870-T101/104, Bacnet, Profinet, ENIP, )
 
-✔️ Alerting system (Elastalert)
+✔️ Alerting
 
-✔️ Embeded Vulnerability Scanning system (Openvas)
+✔️ Reporting
+
+✔️ Anomaly Detection
 
 ✔️ The SIEM module supports:
 - Fortinet (Fortigate, Fortiweb)
@@ -28,20 +30,13 @@ This SIEM is all based on micro services, it is built upon Docker and deployed o
 - Kaspersky (Kaspersky Security Center)
 - Linux (security events, FIM)
 - Windows (Sysmon, Security events)
-- Web Vulnerability Scanning (Netsparker)
 - Netflow
 - Suricata
-- Extended detection and response (XDR) - Elastic security
-- Host security analysis - Elastic security
-- Network security analysis - Elastic security
-- Detection engine (e.g., correlation, indicator match, threshold) - Elastic security
-- Malware prevention - Elastic security
-- RDP and SSH and TELNET bruteforce attacks
-- Login bruteforce attack 
+- Host security analysis - Wazuh
+- RDP and SSH and TELNET bruteforce attacks detection
+- Login bruteforce attack detection
 - MITRE ATT&CK tactics and techniques
-- DNP3 attacks
 - Portsecurity, ARP inspection, DHCP snooping
-
 
 ✔️ Incident Response Integration (Thehive4)
 
