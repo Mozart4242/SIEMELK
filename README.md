@@ -10,7 +10,7 @@ SIEMELK is a SIEM solution based on ELK stack with many added alternative applic
 
 This SIEM is all based on micro services, it is built upon Docker and deployed on linux.
 
-**Its beyond a SIEM, we can call it a Next Generation SIEM.**
+**Lets go beyond a SIEM**
 
 ## Main Features
 ✔️ Host and Network Threat Hunting (sysmon + wazuh HIDS)
@@ -46,10 +46,8 @@ This SIEM is all based on micro services, it is built upon Docker and deployed o
 
 ✔️ C&C connections detection
 
-✔️ and a lot more ...
-
 ## How to use?
-You can simply download the provided iso image and install the product.
+You can simply download the provided iso image and install.
 
 ## More to come
 This Repository is not completed and i am working on it. once the product is ready i will update this Repo.
