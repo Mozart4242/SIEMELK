@@ -17,9 +17,9 @@ This SIEM is all based on micro services, it is built upon Docker and deployed o
 
 ✔️ Embeded IDPS Service (suricata)
 
-✔️ Netflow and Sflow support (Elastiflow)
+✔️ Netflow support (Elastiflow)
 
-✔️ SCADA/ICS Protocols support (S7comm, Modbus, DNP3, IEC60870-T101/104, Bacnet, Profinet, ENIP, )
+✔️ SCADA/ICS Protocols support (S7comm, Modbus, DNP3, Bacnet, Profinet, ENIP)
 
 ✔️ Alerting
 
@@ -31,13 +31,11 @@ This SIEM is all based on micro services, it is built upon Docker and deployed o
 - Fortinet (Fortigate, Fortiweb)
 - Sophos (Sophos, Cyberoam)
 - Cisco (Routers, Switches, ASA, FTD, FMC)
-- Kaspersky (Kaspersky Security Center)
 - Linux (security events, FIM)
 - Windows (Sysmon, Security events)
 - Netflow
 - Suricata
 - Host security analysis - Wazuh
-- RDP and SSH and TELNET bruteforce attacks detection
 - Login bruteforce attack detection
 - MITRE ATT&CK tactics and techniques
 - Portsecurity, ARP inspection, DHCP snooping
