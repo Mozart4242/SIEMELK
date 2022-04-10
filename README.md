@@ -44,8 +44,10 @@ This SIEM is all based on micro services, it is built upon Docker and deployed o
 
 ✔️ C&C connections detection
 
-## How to use?
-You can simply download the provided iso image and install.
+## Where to get this?
+  - 1st- Submit this form https://forms.gle/R81FMULEkFTJVSzMA
+  - 2nd- your information will get submitted
+  - 3rd- you will get the download link for iso installation file
 
 ## More to come
 This Repository is not completed and i am working on it. once the product is ready i will update this Repo.
