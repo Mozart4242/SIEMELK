@@ -6,9 +6,9 @@
 
 COMING SOON,
 
-SIEMELK is a SIEM solution based on ELK stack with many added alternative application's and customization's. It's free and powerful, You will see 😊
+SIEMELK is a SIEM solution based on the ELK stack with many added alternative applications and customizations. It's free and powerful, You will see
 
-This SIEM is all based on micro services, it is built upon Docker and deployed on linux.
+This SIEM is all based on microservices, it is built upon Docker and deployed on Linux.
 
 **Lets go beyond a SIEM**
 
