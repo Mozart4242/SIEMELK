@@ -27,7 +27,7 @@ This SIEM is all based on microservices, it is built upon Docker and deployed on
 
 ✔️ Anomaly Detection
 
-✔️ Cyber Threat Intelligence
+✔️ Cyber Threat Intelligence (OpenCTI)
 
 ✔️ The SIEM module supports:
 - Fortinet (Fortigate, Fortiweb)
