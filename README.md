@@ -27,6 +27,8 @@ This SIEM is all based on microservices, it is built upon Docker and deployed on
 
 ✔️ Anomaly Detection
 
+✔️ Cyber Threat Intelligence
+
 ✔️ The SIEM module supports:
 - Fortinet (Fortigate, Fortiweb)
 - Sophos (Sophos, Cyberoam)
@@ -45,9 +47,9 @@ This SIEM is all based on microservices, it is built upon Docker and deployed on
 ✔️ C&C connections detection
 
 ## How to Install?
-  - 1st- Submit this form https://forms.gle/R81FMULEkFTJVSzMA
-  - 2nd- your information will get submitted
-  - 3rd- you will get the download link for iso installation file
+  - 1st- Submit this form https://forms.gle/R81FMULEkFTJVSzMA.
+  - 2nd- Reviewing your information.
+  - 3rd- You will get the download link for iso installation file and a instruction to activate the application.
 
 ## More to come
 This Repository is not completed and i am working on it. once the product is ready i will update this Repo.
