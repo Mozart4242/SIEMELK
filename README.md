@@ -53,3 +53,37 @@ This SIEM is all based on microservices, it is built upon Docker and deployed on
 
 ## More to come
 This Repository is not completed and i am working on it. once the product is ready i will update this Repo.
+
+
+---------
+
+# Stack
+The minimum requierments to deploy the stack (Acceptable Performance)is shown in the table below:
+
+| Role     | RAM         |    CPU |
+| ---------| ------      |-------|
+| OpenCTI|       8GB    | 4   |
+|Core service| 12GB | 8 |
+|TheHive4| 2GB|1|
+|Other| 2GB|1|
+
+24GB of RAM + 2GB extra (Linux and services) = 26 GB of RAM.
+14 Cores of CPU is Good to go.
+
+## How to choose your stack?
+your stack resources depends on many factors like :
+- how many hosts do you want to monitor?
+- how many network devices you have?
+- how much EPS (Event Per Second) the SIEM should handle?
+
+this table will help you to decide:
+
+| RAM     | CPU         |    DISK | EPS|
+| ---------| ------      |-------|----|
+|16GB|8|300GB|1000-1500|
+|24GB|8|500GB|1500-3000|
+|32GB|12|1TB|3000-4000|
+|48GB|16|2TB|4000-8000|
+|64GB|24|+2TB|+8000|
+
+NOTE: The Netflow module requiers a very good performance of your machine. (SSD Disks are recommended)
