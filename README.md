@@ -86,3 +86,7 @@ This table will help you to decide:
 |64GB|24|+2TB|+8000|72GB RAM|
 
 ⚠️ **NOTE: The Netflow module requiers a very good performance of your machine. (SSD Disks are recommended)**
+
+## To Do
+- Adding ability to upload your configuration files from web
+- Adding ability to add replicas to your Elasticsearch form web
