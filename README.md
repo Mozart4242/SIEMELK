@@ -1,7 +1,7 @@
 # SIEMELK
 
 <p align="center">
- <img alt="SIEMELK Logo" src="siemelk-logo.jpg">
+ <img alt="SIEMELK Logo" src="SIEMELK..png">
 </p>
 
 COMING SOON,
