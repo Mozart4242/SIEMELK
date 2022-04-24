@@ -4,10 +4,9 @@
  <img alt="SIEMELK Logo" src="SIEMELK..png">
 </p>
 
+📌 SIEMELK is a customizable and scalable Security Monitoring Software Solution that is accessible to small, medium amd enterprise organizations.
 
-SIEMELK is a customizable and scalable Security Monitoring Software Solution that is accessible to small, medium amd enterprise organizations.
-
-SIEMELK is built on the best of Open Source tools with extra functionality, integration stability and correlation providing enriching data from the SIEM.
+📌 SIEMELK is built on the best of Open Source tools with extra functionality, integration stability and correlation providing enriching data from the SIEM.
 
 <h1 align="center">
 Lets go beyond a SIEM
@@ -53,6 +52,7 @@ Lets go beyond a SIEM
 - MITRE ATT&CK tactics and techniques
 - Portsecurity, ARP inspection, DHCP snooping
 
+----
 ## How to Install?
   - 1st- Submit this form https://forms.gle/R81FMULEkFTJVSzMA.
   - 2nd- Reviewing your information.
