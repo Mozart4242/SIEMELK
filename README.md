@@ -52,7 +52,7 @@ This SIEM is all based on microservices, it is built upon Docker and deployed on
 ## How to Install?
   - 1st- Submit this form https://forms.gle/R81FMULEkFTJVSzMA.
   - 2nd- Reviewing your information.
-  - 3rd- You will get the download link for iso installation file and a instruction to activate the application.
+  - 3rd- You will get the download link for the iso installation file and a instruction to activate the application.
 
 ---------
 
