@@ -5,14 +5,18 @@
 </p>
 
 
-SIEMELK is a SIEM solution based on the ELK stack with many added alternative applications and customizations. It's free and powerful, You will see
+SIEMELK is a customizable and scalable Security Monitoring Software Solution that is accessible to small, medium amd enterprise organizations.
 
-This SIEM is all based on microservices, it is built upon Docker and deployed on Linux.
+SIEMELK is built on the best of Open Source tools with extra functionality, integration stability and correlation providing enriching data from the SIEM.
 
-**Lets go beyond a SIEM**
+<h1 align="center">
+Lets go beyond a SIEM
+</h1>
 
-## Main Features
-✔️ Host and Network Threat Hunting (sysmon + wazuh HIDS)
+## SIEMELK Features
+✔️ Open Distro for Elasticsearch + Kibana + Logstash
+
+✔️ Host and Network Threat Hunting (sysmon + wazuh)
 
 ✔️ Embeded IDPS Service (suricata)
 
