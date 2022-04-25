@@ -96,4 +96,3 @@ This table will help you to decide:
 - Adding ability to add replicas to your Elasticsearch form web
 - Adding Message Queuing – Kafka
 - Adding SOAR solution - Shuffle SOAR
-- 
