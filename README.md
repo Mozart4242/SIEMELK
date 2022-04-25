@@ -94,3 +94,6 @@ This table will help you to decide:
 ## To Do
 - Adding ability to upload your configuration files from web
 - Adding ability to add replicas to your Elasticsearch form web
+- Adding Message Queuing – Kafka
+- Adding SOAR solution - Shuffle SOAR
+- 
