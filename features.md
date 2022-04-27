@@ -15,7 +15,7 @@ Open Distro for Elasticsearch provides a powerful, easy-to-use event monitoring 
 TheHive is utilized within the SIEMonster platform as an incident response/case management system. It is meshed with Alerting, MISP, OpenCTI, Patrowl and Cortex to automate the process of incident creation. To make life simpler for SOCs, CSIRTs and CERTs, all information pertaining to a security incident is presented for review. Whilst weighing up and excluding false positives, the SOC team are given an indication of next steps to take.
 
 <p align="center">
- <img alt="SIEMELK Logo" src="hive..png">
+ <img alt="SIEMELK Logo" src="hive.png">
 </p>
 
 -----
@@ -35,7 +35,7 @@ OpenCTI is an open source platform allowing organizations to manage their cyber 
 The structuration of the data is performed using a knowledge schema based on the STIX2 standards. It has been designed as a modern web application including a GraphQL API and an UX oriented frontend. Also, OpenCTI is integrated with MISP, TheHive and MITRE ATT&CK within the SIEMonster platform as well as having a connector for CVE information.
 
 <p align="center">
- <img alt="SIEMELK Logo" src="opencti.png">
+ <img alt="SIEMELK Logo" src="opencti.jpg">
 </p>
 
 ------
