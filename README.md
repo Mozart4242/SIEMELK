@@ -12,6 +12,10 @@
 Lets go beyond a SIEM
 </h1>
 
+
+## [Product Overview](features.md)
+
+
 ## SIEMELK Features
 ✔️ Open Distro for Elasticsearch + Kibana + Logstash
 
@@ -81,8 +85,8 @@ your stack resources depends on many factors like :
 
 This table will help you to decide:
 
-| RAM     | CPU         |    DISK | EPS| Entire need|
-| ---------| ------      |-------|----|----|
+| RAM     | CPU     |  DISK | EPS| Entire need|
+| --------| ------ |-------|----|----|
 |16GB|8|300GB|1000-1500| 24GB RAM|
 |24GB|8|500GB|1500-3000| 32GB RAM|
 |32GB|12|1TB|3000-5000| 40GB RAM|
