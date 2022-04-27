@@ -1,5 +1,5 @@
 ## Built On Open Source
-SIEMonster is built on the best of Open Source tools with extra functionality, integration stability and correlation providing enriching data from the SIEM.
+SIEMELK is built on the best of Open Source tools with extra functionality, integration stability and correlation providing enriching data from the SIEM.
 Some of these tools include.
 
 ### Open Distro
@@ -12,7 +12,7 @@ Open Distro for Elasticsearch provides a powerful, easy-to-use event monitoring 
 -----
 
 ### The Hive
-TheHive is utilized within the SIEMonster platform as an incident response/case management system. It is meshed with Alerting, MISP, OpenCTI, Patrowl and Cortex to automate the process of incident creation. To make life simpler for SOCs, CSIRTs and CERTs, all information pertaining to a security incident is presented for review. Whilst weighing up and excluding false positives, the SOC team are given an indication of next steps to take.
+TheHive is utilized within the SIEMELK platform as an incident response/case management system. It is meshed with Alerting, MISP, OpenCTI, Patrowl and Cortex to automate the process of incident creation. To make life simpler for SOCs, CSIRTs and CERTs, all information pertaining to a security incident is presented for review. Whilst weighing up and excluding false positives, the SOC team are given an indication of next steps to take.
 
 <p align="center">
  <img alt="SIEMELK Logo" src="hive.png">
@@ -32,7 +32,7 @@ MITRE ATT&CK is a globally accessible knowledge base of adversary tactics and te
 OpenCTI is an open source platform allowing organizations to manage their cyber threat intelligence knowledge and observables. It has been created in order to structure, store, organize and visualize technical and non-technical information about cyber threats.
 
 
-The structuration of the data is performed using a knowledge schema based on the STIX2 standards. It has been designed as a modern web application including a GraphQL API and an UX oriented frontend. Also, OpenCTI is integrated with MISP, TheHive and MITRE ATT&CK within the SIEMonster platform as well as having a connector for CVE information.
+The structuration of the data is performed using a knowledge schema based on the STIX2 standards. It has been designed as a modern web application including a GraphQL API and an UX oriented frontend. Also, OpenCTI is integrated with MISP, TheHive and MITRE ATT&CK within the SIEMELK platform as well as having a connector for CVE information.
 
 <p align="center">
  <img alt="SIEMELK Logo" src="opencti.jpg">
@@ -41,7 +41,7 @@ The structuration of the data is performed using a knowledge schema based on the
 ------
 
 ### Message Queuing – Kafka
-Apache Kafka is a publish/subscribe message queuing system that is utilized within SIEMonster not only for its scalability but also for the following:
+Apache Kafka is a publish/subscribe message queuing system that is utilized within SIEMELK not only for its scalability but also for the following:
 
 1- Provides durable, fast and fault tolerant message streaming for handling real time data feeds.
 
@@ -78,7 +78,7 @@ Suricata is an open source threat detection engine that was developed by the Ope
 
 
 
-SIEMonster provides a Suricata pipeline that performs packet capture and analysis on the local network interface, acting as a host-based IDS. The resultant data is then sent to Kafka before being ingested by Elasticsearch. The commercial SIEMonster releases extend these capabilities in the form of network and cloud tabs and multi-network interface monitoring.
+SIEMELK provides a Suricata pipeline that performs packet capture and analysis on the local network interface, acting as a host-based IDS. The resultant data is then sent to Kafka before being ingested by Elasticsearch. The commercial SIEMELK releases extend these capabilities in the form of network and cloud tabs and multi-network interface monitoring.
 
  
 Alerts can be easily configured for signature matches and there is also a dashboard provided for further IDS analysis.
