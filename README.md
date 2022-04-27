@@ -85,9 +85,9 @@ This table will help you to decide:
 | ---------| ------      |-------|----|----|
 |16GB|8|300GB|1000-1500| 24GB RAM|
 |24GB|8|500GB|1500-3000| 32GB RAM|
-|32GB|12|1TB|3000-4000| 40GB RAM|
-|48GB|16|2TB|4000-8000|56GB RAM|
-|64GB|24|+2TB|+8000|72GB RAM|
+|32GB|12|1TB|3000-5000| 40GB RAM|
+|48GB|16|2TB|5000-10000|56GB RAM|
+|64GB|24|2TB+|10000+|72GB RAM|
 
 ⚠️ **NOTE: The Netflow module requiers a very good performance of your machine. (SSD Disks are recommended)**
 
