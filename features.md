@@ -6,7 +6,7 @@ Some of these tools include.
 Open Distro for Elasticsearch provides a powerful, easy-to-use event monitoring and alerting system, enabling you to monitor your data and send notifications automatically to your stakeholders. With an intuitive Kibana interface and powerful API, it is easy to set up and manage alerts. Build specific alert conditions using Elasticsearch’s query and scripting capabilities. Alerts help teams reduce response times for operational and security events.
 
 <p align="center">
- <img alt="" src="opendistro.png">
+ <img alt="" src="images/opendistro.png">
 </p>
 
 -----
@@ -15,7 +15,7 @@ Open Distro for Elasticsearch provides a powerful, easy-to-use event monitoring 
 TheHive is utilized within the SIEMELK platform as an incident response/case management system. It is meshed with Alerting, MISP, OpenCTI, Patrowl and Cortex to automate the process of incident creation. To make life simpler for SOCs, CSIRTs and CERTs, all information pertaining to a security incident is presented for review. Whilst weighing up and excluding false positives, the SOC team are given an indication of next steps to take.
 
 <p align="center">
- <img alt="SIEMELK Logo" src="hive.png">
+ <img alt="SIEMELK Logo" src="images/hive.png">
 </p>
 
 -----
@@ -24,7 +24,7 @@ TheHive is utilized within the SIEMELK platform as an incident response/case man
 MITRE ATT&CK is a globally accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
 
 <p align="center">
- <img alt="" src="mitre.png">
+ <img alt="" src="images/mitre.png">
 </p>
 
 ------
@@ -35,7 +35,7 @@ OpenCTI is an open source platform allowing organizations to manage their cyber 
 The structuration of the data is performed using a knowledge schema based on the STIX2 standards. It has been designed as a modern web application including a GraphQL API and an UX oriented frontend. Also, OpenCTI is integrated with MISP, TheHive and MITRE ATT&CK within the SIEMELK platform as well as having a connector for CVE information.
 
 <p align="center">
- <img alt="SIEMELK Logo" src="opencti.jpg">
+ <img alt="SIEMELK Logo" src="images/opencti.jpg">
 </p>
 
 ------
@@ -59,7 +59,7 @@ Apache Kafka is a publish/subscribe message queuing system that is utilized with
 Incoming events are stored initially in Apache Kafka before being processed in Nifi and then sent to Elasticsearch. This provides a buffer in case of bursts in activity while also providing an endpoint by topic management system with options for real time alert stream creation.
 
 <p align="center">
- <img alt="" src="kafka.png">
+ <img alt="" src="images/kafka.png">
 </p>
 
 -----
@@ -68,7 +68,7 @@ Incoming events are stored initially in Apache Kafka before being processed in N
 Wazuh is a free and open source platform for threat detection, security monitoring, incident response and regulatory compliance. It can be used to monitor endpoints, cloud services and containers, and to aggregate and analyze data from external sources. Wazuh is used to collect, aggregate, index and analyze security data, helping organizations detect intrusions, threats and behavioral anomalies.
 
 <p align="center">
- <img alt="" src="wazuh.png">
+ <img alt="" src="images/wazuh.png">
 </p>
 
 -----
@@ -84,6 +84,6 @@ SIEMELK provides a Suricata pipeline that performs packet capture and analysis o
 Alerts can be easily configured for signature matches and there is also a dashboard provided for further IDS analysis.
 
  <p align="center">
- <img alt="" src="suricata.png">
+ <img alt="" src="images/suricata.png">
 </p>
 

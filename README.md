@@ -1,7 +1,7 @@
 # SIEMELK
 
 <p align="center">
- <img alt="SIEMELK Logo" src="SIEMELK..png">
+ <img alt="SIEMELK Logo" src="images/SIEMELK..png">
 </p>
 
 📌 SIEMELK is a customizable and scalable Security Monitoring Software Solution that is accessible to small, medium amd enterprise organizations.
