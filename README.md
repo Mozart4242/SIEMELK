@@ -50,7 +50,7 @@ Lets go beyond a SIEM
 - Linux (security events, FIM)
 - Windows (Sysmon, Security events)
 - Netflow
-- Suricata
+- Suricata (IDSTower + 1 year free license)
 - Host security analysis - Wazuh
 - Login bruteforce attack detection
 - MITRE ATT&CK tactics and techniques
