@@ -72,7 +72,7 @@ The minimum requierments to deploy the stack (Acceptable Performance)is shown in
 | OpenCTI| 8GB | 4  |
 |Core service| 12GB | 8 |
 |TheHive4| 2GB|1|
-|Other| 2GB|1|
+|Other| 4GB|2|
 
 24GB of RAM + 2GB extra (Linux and services) = 26 GB of RAM.
 14 Cores of CPU is Good to go.
@@ -87,7 +87,6 @@ This table will help you to decide:
 
 | RAM     | CPU     |  DISK | EPS| Entire need|
 | --------| ------ |-------|----|----|
-|16GB|8|300GB|1000-1500| 24GB RAM|
 |24GB|8|500GB|1500-3000| 32GB RAM|
 |32GB|12|1TB|3000-5000| 40GB RAM|
 |48GB|16|2TB|5000-10000|56GB RAM|
