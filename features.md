@@ -56,8 +56,6 @@ Apache Kafka is a publish/subscribe message queuing system that is utilized with
 6- Ability to set data retention periods per use case in case of upstream processing back pressure.
 
 
-Incoming events are stored initially in Apache Kafka before being processed in Nifi and then sent to Elasticsearch. This provides a buffer in case of bursts in activity while also providing an endpoint by topic management system with options for real time alert stream creation.
-
 <p align="center">
  <img alt="" src="images/kafka.png">
 </p>
