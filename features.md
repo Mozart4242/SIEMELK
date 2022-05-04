@@ -80,8 +80,9 @@ Suricata is an open source threat detection engine that was developed by the Ope
 
 SIEMELK provides a Suricata pipeline that performs packet capture and analysis on the local network interface, acting as a host-based IDS. The resultant data is then sent to Kafka before being ingested by Elasticsearch. The commercial SIEMELK releases extend these capabilities in the form of network and cloud tabs and multi-network interface monitoring.
 
+SIEMELK uses the power of IDSTower plus 1-year free full-featured license.
  
-Alerts can be easily configured for signature matches and there is also a dashboard provided for further IDS analysis.
+Alerts can be easily configured for signature matches and there is also dashboards provided for further IDS analysis.
 
  <p align="center">
  <img alt="" src="images/suricata.png">
