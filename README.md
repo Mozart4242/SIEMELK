@@ -106,7 +106,7 @@ This table will help you to decide:
 ## Pricing
 **SIEMELK** is free to download and use, but if you need the 100% power of SIEMELK for your SOC, then consider the table below:
 
-|Edition|Free|Enterprise|
+|Feature/Edition|Free|Enterprise|
 |-------|----|----------|
 |Endpoints: |1-200|Up To 1000|
 |EPS:|5K|Up To 100K|
