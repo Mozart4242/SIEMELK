@@ -73,10 +73,12 @@ The minimum requierments to deploy the stack (Acceptable Performance)is shown in
 
 | Role   | RAM   |   CPU |
 | -------| ------|-------|
-| OpenCTI| 8GB | 4  |
-|Core service| 12GB | 8 |
-|TheHive4| 2GB|1|
-|Other| 4GB|2|
+|OpenCTI|8GB|4|
+|Core service|12GB|8|
+|TheHive4|2GB|1|
+|Cortex|1GB|1|
+|Suricata|2GB|2|
+|Other|4GB|2|
 
 24GB of RAM + 2GB extra (Linux and services) = 26 GB of RAM.
 14 Cores of CPU is Good to go.
@@ -96,6 +98,28 @@ This table will help you to decide:
 |64GB|24|2TB+|10000+|72GB RAM|
 
 ⚠️ **NOTE: The Netflow module requiers a very good performance of your machine. (SSD Disks are recommended)**
+
+------
+
+## Pricing
+**SIEMELK** is free to download and use, but if you need the 100% power if SIEMELK for your SOC, then consider the table below:
+
+|Edition|Free|Enterprise|
+|-------|----|----------|
+|Endpoints: |1-100|+100|
+|EPS:|5k|up to 100k|
+|Base SIEM: | ✅| ✅|
+|Reports: | ✅| ✅|
+|Host Intrusion Detection: | ✅| ✅|
+|Anomaly Detection:| ✅| ✅|
+|Upgradeable: | ❌|✅|
+|Kubernetes Scalable: |❌ | ✅|
+|Threat Intelligence: |❌ | ✅|
+|Incident Response: | ❌| ✅|
+|SOAR: | ❌| ✅|
+|Observability Analyzer: | ❌| ✅|
+
+
 
 ## To Do
 - Adding ability to upload your configuration files from web
