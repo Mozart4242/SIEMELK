@@ -71,19 +71,10 @@ Lets go beyond a SIEM
 ---------
 
 # Stack
-The minimum requierments to deploy the stack (Acceptable Performance)is shown in the table below:
+The minimum requierments to deploy the stack:
 
-| Role   | RAM   |   CPU |
-| -------| ------|-------|
-|OpenCTI|8GB|4|
-|Core service|12GB|8|
-|TheHive4|2GB|1|
-|Cortex|1GB|1|
-|Suricata|2GB|2|
-|Other|4GB|2|
-
-24GB of RAM + 2GB extra (Linux and services) = 26 GB of RAM.
-14 Cores of CPU is Good to go.
+- 32GB of RAM + 4GB extra (Linux and services)
+- 8 Cores of CPU is Good to go.
 
 ## How to choose your stack?
 your stack resources depends on many factors like :
