@@ -37,11 +37,15 @@ Lets go beyond a SIEM
 
 ✔️ Incident Response Integration (Thehive4)
 
+✔️ Observables Analyzer (Cortex)
+
 ✔️ C&C connections detection
 
 ✔️ Network Scanning module (Web-map)
 
 ✔️ Cluster Management
+
+✔️ SOAR Operations (Shuffle)
 
 ✔️ The SIEM module supports:
 - Fortinet (Fortigate, Fortiweb)
@@ -87,7 +91,6 @@ This table will help you to decide:
 
 | RAM     | CPU     |  DISK | EPS| Entire need|
 | --------| ------ |-------|----|----|
-|24GB|8|500GB|1500-3000| 32GB RAM|
 |32GB|12|1TB|3000-5000| 40GB RAM|
 |48GB|16|2TB|5000-10000|56GB RAM|
 |64GB|24|2TB+|10000+|72GB RAM|
@@ -98,4 +101,3 @@ This table will help you to decide:
 - Adding ability to upload your configuration files from web
 - Adding ability to add replicas to your Elasticsearch form web
 - Adding Message Queuing – Kafka
-- Adding SOAR solution - Shuffle SOAR
