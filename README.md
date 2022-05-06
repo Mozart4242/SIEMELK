@@ -79,7 +79,7 @@ The minimum requierments to deploy the stack:
 ## How to choose your stack?
 your stack resources depends on many factors like :
 - how many hosts do you want to monitor?
-- how many network devices you have?
+- how many Endpoints you have?
 - how much EPS (Event Per Second) the SIEM should handle?
 
 This table will help you to decide:
@@ -104,7 +104,10 @@ This table will help you to decide:
 |Base SIEM: | ✅| ✅|
 |Reports: | ✅| ✅|
 |Host Intrusion Detection: | ✅| ✅|
+|Cluster Management: | ✅|✅ |
 |Anomaly Detection:| ✅| ✅|
+|Alerting: |✅ |✅ |
+|Network Scanning Module: |❌ | ✅|
 |Network Intrusion Detection: |❌ |✅ |
 |Upgradeable: | ❌|✅|
 |Kubernetes Scalable: |❌ | ✅|
@@ -113,7 +116,7 @@ This table will help you to decide:
 |SOAR: | ❌| ✅|
 |Observability Analyzer: | ❌| ✅|
 
-
+------
 
 ## To Do
 - Adding ability to upload your configuration files from web
