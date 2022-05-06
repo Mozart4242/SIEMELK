@@ -102,16 +102,17 @@ This table will help you to decide:
 ------
 
 ## Pricing
-**SIEMELK** is free to download and use, but if you need the 100% power if SIEMELK for your SOC, then consider the table below:
+**SIEMELK** is free to download and use, but if you need the 100% power of SIEMELK for your SOC, then consider the table below:
 
 |Edition|Free|Enterprise|
 |-------|----|----------|
-|Endpoints: |1-100|+100|
+|Endpoints: |1-200|up to 1000|
 |EPS:|5k|up to 100k|
 |Base SIEM: | ✅| ✅|
 |Reports: | ✅| ✅|
 |Host Intrusion Detection: | ✅| ✅|
 |Anomaly Detection:| ✅| ✅|
+|Network Intrusion Detection: |❌ |✅ |
 |Upgradeable: | ❌|✅|
 |Kubernetes Scalable: |❌ | ✅|
 |Threat Intelligence: |❌ | ✅|
