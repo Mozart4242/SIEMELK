@@ -8,6 +8,8 @@
 
 📌 SIEMELK is built on the best of Open Source tools with extra functionality, integration stability and correlation providing enriching data from the SIEM.
 
+📌  SIEMELK IS NOT AN OPEN-SOURCE PLATFORM
+
 <h1 align="center">
 Lets go beyond a SIEM
 </h1>
@@ -106,8 +108,8 @@ This table will help you to decide:
 
 |Edition|Free|Enterprise|
 |-------|----|----------|
-|Endpoints: |1-200|up to 1000|
-|EPS:|5k|up to 100k|
+|Endpoints: |1-200|Up To 1000|
+|EPS:|5K|Up To 100K|
 |Base SIEM: | ✅| ✅|
 |Reports: | ✅| ✅|
 |Host Intrusion Detection: | ✅| ✅|
