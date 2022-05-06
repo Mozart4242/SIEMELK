@@ -99,8 +99,9 @@ This table will help you to decide:
 
 |Feature/Edition|Free|Enterprise|
 |-------|----|----------|
-|Endpoints: |1-200|Up To 1000|
-|EPS:|5K|Up To 100K|
+|Platform: |VM|VM|
+|Endpoints: |1-200|Up-To 1000|
+|EPS:|5K|Up-To 100K|
 |Base SIEM: | ✅| ✅|
 |Reports: | ✅| ✅|
 |Host Intrusion Detection: | ✅| ✅|
