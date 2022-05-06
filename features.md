@@ -12,7 +12,7 @@ Open Distro for Elasticsearch provides a powerful, easy-to-use event monitoring 
 -----
 
 ### The Hive
-TheHive is utilized within the SIEMELK platform as an incident response/case management system. It is meshed with Alerting, MISP, OpenCTI, Patrowl and Cortex to automate the process of incident creation. To make life simpler for SOCs, CSIRTs and CERTs, all information pertaining to a security incident is presented for review. Whilst weighing up and excluding false positives, the SOC team are given an indication of next steps to take.
+TheHive is utilized within the SIEMELK platform as an incident response/case management system. It is meshed with Alerting, OpenCTI, Patrowl and Cortex to automate the process of incident creation. To make life simpler for SOCs, CSIRTs and CERTs, all information pertaining to a security incident is presented for review. Whilst weighing up and excluding false positives, the SOC team are given an indication of next steps to take.
 
 <p align="center">
  <img alt="SIEMELK Logo" src="images/hive.png">
@@ -32,7 +32,7 @@ MITRE ATT&CK is a globally accessible knowledge base of adversary tactics and te
 OpenCTI is an open source platform allowing organizations to manage their cyber threat intelligence knowledge and observables. It has been created in order to structure, store, organize and visualize technical and non-technical information about cyber threats.
 
 
-The structuration of the data is performed using a knowledge schema based on the STIX2 standards. It has been designed as a modern web application including a GraphQL API and an UX oriented frontend. Also, OpenCTI is integrated with MISP, TheHive and MITRE ATT&CK within the SIEMELK platform as well as having a connector for CVE information.
+The structuration of the data is performed using a knowledge schema based on the STIX2 standards. It has been designed as a modern web application including a GraphQL API and an UX oriented frontend. Also, OpenCTI is integrated TheHive and MITRE ATT&CK within the SIEMELK platform as well as having a connector for CVE information.
 
 <p align="center">
  <img alt="SIEMELK Logo" src="images/opencti.jpg">
@@ -88,7 +88,7 @@ Alerts can be easily configured for signature matches and there is also dashboar
 
 -----
 ### Shuffle SOAR
-SIEMELK using Shuffle SOAR (Security Orchestration, Automation, and Response). has included the bleeding edge Shuffle SOAR technology that will allow for the creation of workflows that can integrate with applications that form part of the SIEMELK stack, as well as external products that are often found as part of the cyber security toolsets deployed within the enterprise. SIEMELK have auto-wired to Cortex, TheHive & MISP. SOAR give your SIEM automation to create tickets, add Threat Intelligence Information as well as artifacts. SOAR provides automated workflows through a graphical interface with no coding required. Shuffle SOAR has thousands of premade integrations and uses open frameworks. Pulling data via API calls from all your sources makes for integration in hours rather than weeks or months. Raise tickets in commercial products or send emails to key stakeholders – choose from more than 11,000 application APIs to integrate into SIEMELK.
+SIEMELK using Shuffle SOAR (Security Orchestration, Automation, and Response). has included the bleeding edge Shuffle SOAR technology that will allow for the creation of workflows that can integrate with applications that form part of the SIEMELK stack, as well as external products that are often found as part of the cyber security toolsets deployed within the enterprise. SIEMELK have auto-wired to Cortex and TheHive. SOAR give your SIEM automation to create tickets, add Threat Intelligence Information as well as artifacts. SOAR provides automated workflows through a graphical interface with no coding required. Shuffle SOAR has thousands of premade integrations and uses open frameworks. Pulling data via API calls from all your sources makes for integration in hours rather than weeks or months. Raise tickets in commercial products or send emails to key stakeholders – choose from more than 11,000 application APIs to integrate into SIEMELK.
 
  <p align="center">
  <img alt="" src="images/SOAR-min.jpg ">
@@ -103,7 +103,7 @@ Cortex solves two common problems frequently encountered by SOCs, CSIRTs and sec
 - How to actively respond to threats and interact with the constituency and other teams?
 
 
-Cortex can analyze (and triage)observables at scale using more than 100 analyzers. you can actively respond to threats and interact with your constituency and other parties thanks to Cortex responders. Within the SIEMELK platform Cortex is pre-integrated with TheHive and MISP to get you up and running.
+Cortex can analyze (and triage)observables at scale using more than 100 analyzers. you can actively respond to threats and interact with your constituency and other parties thanks to Cortex responders. Within the SIEMELK platform Cortex is pre-integrated with TheHive to get you up and running.
 
 
 <p align="center">
