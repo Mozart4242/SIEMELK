@@ -86,3 +86,26 @@ Alerts can be easily configured for signature matches and there is also dashboar
  <img alt="" src="images/suricata.png">
 </p>
 
+-----
+### Shuffle SOAR
+SIEMELK using Shuffle SOAR (Security Orchestration, Automation, and Response). has included the bleeding edge Shuffle SOAR technology that will allow for the creation of workflows that can integrate with applications that form part of the SIEMELK stack, as well as external products that are often found as part of the cyber security toolsets deployed within the enterprise. SIEMELK have auto-wired to Cortex, TheHive & MISP. SOAR give your SIEM automation to create tickets, add Threat Intelligence Information as well as artifacts. SOAR provides automated workflows through a graphical interface with no coding required. Shuffle SOAR has thousands of premade integrations and uses open frameworks. Pulling data via API calls from all your sources makes for integration in hours rather than weeks or months. Raise tickets in commercial products or send emails to key stakeholders – choose from more than 11,000 application APIs to integrate into SIEMELK.
+
+ <p align="center">
+ <img alt="" src="images/SOAR-min.jpg ">
+</p>
+
+-----
+### Cortex 
+Cortex solves two common problems frequently encountered by SOCs, CSIRTs and security researchers in the course of threat intelligence, digital forensics and incident response:
+
+
+- How to analyze observables they have collected, at scale, by querying a single tool instead of several?
+- How to actively respond to threats and interact with the constituency and other teams?
+
+
+Cortex can analyze (and triage)observables at scale using more than 100 analyzers. you can actively respond to threats and interact with your constituency and other parties thanks to Cortex responders. Within the SIEMELK platform Cortex is pre-integrated with TheHive and MISP to get you up and running.
+
+
+<p align="center">
+<img alt="" src="images/Cortex-dash.png ">
+</p>
