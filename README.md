@@ -86,9 +86,9 @@ This table will help you to decide:
 
 | RAM     | CPU     |  DISK | EPS| Entire need|
 | --------| ------ |-------|----|----|
-|32GB|12|1TB|3000-5000| 40GB RAM|
-|48GB|16|2TB|5000-10000|56GB RAM|
-|64GB|24|2TB+|10000+|72GB RAM|
+|32GB|12|1TB|3K-5K| 40GB RAM|
+|48GB|16|2TB|5K-10K|56GB RAM|
+|64GB|24|2TB+|10K+|72GB RAM|
 
 ⚠️ **NOTE: The Netflow module requiers a very good performance of your machine. (SSD Disks are recommended)**
 
