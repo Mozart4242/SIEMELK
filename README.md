@@ -68,9 +68,12 @@ Lets go beyond a SIEM
   - 2nd: Download OVA package.
   - 3rd: Deploy OVA package on your Virtual machine platform (Recommended: VMware ESXI, Workstation, Vsphere)
   - 4th: Power on the VM
-  - 5th: Login as **(user: siemelk)(password: siemelk)**
-  - 6th: Run this command: **"sudo bash setup.sh"**
+  - 5th: Login as:
+    - **(user: siemelk)(password: siemelk)**
+  - 6th: Run this command:
+    - **"sudo bash setup.sh"**
   - 7th: You are ready to go, happy hunting.
+    - **https://ip/pages/login.php**
   
   ---------
 
