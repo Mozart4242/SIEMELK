@@ -64,11 +64,15 @@ Lets go beyond a SIEM
 
 ----
 ## How to Install?
-  - 1st- Submit this form https://forms.gle/R81FMULEkFTJVSzMA.
-  - 2nd- Reviewing your information.
-  - 3rd- You will get the download link for the iso installation file and a instruction to activate the application.
-
----------
+  - 1st: Submit this form https://forms.gle/R81FMULEkFTJVSzMA.
+  - 2nd: Download OVA package.
+  - 3rd: Deploy OVA package on your Virtual machine platform (Recommended: VMware ESXI, Workstation, Vsphere)
+  - 4th: Power on the VM
+  - 5th: Login as (user: siemelk)(password: siemelk)
+  - 6th: Run this command: "sudo bash setup.sh"
+  - 7th: You are ready to go, happy hunting.
+  
+  ---------
 
 # Stack
 The minimum requierments to deploy the stack:
