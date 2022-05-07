@@ -68,8 +68,8 @@ Lets go beyond a SIEM
   - 2nd: Download OVA package.
   - 3rd: Deploy OVA package on your Virtual machine platform (Recommended: VMware ESXI, Workstation, Vsphere)
   - 4th: Power on the VM
-  - 5th: Login as (user: siemelk)(password: siemelk)
-  - 6th: Run this command: "sudo bash setup.sh"
+  - 5th: Login as **(user: siemelk)(password: siemelk)**
+  - 6th: Run this command: **"sudo bash setup.sh"**
   - 7th: You are ready to go, happy hunting.
   
   ---------
@@ -88,8 +88,8 @@ your stack resources depends on many factors like :
 
 This table will help you to decide:
 
-| RAM     | CPU     |  DISK | EPS| Entire need|
-| --------| ------ |-------|----|----|
+| RAM     | CPU    |  DISK | EPS| Entire Need|
+| --------| ------ |-------|----|------------|
 |32GB|12|1TB|3K-5K| 40GB RAM|
 |48GB|16|2TB|5K-10K|56GB RAM|
 |64GB|24|2TB+|10K+|72GB RAM|
