@@ -74,7 +74,7 @@ Lets go beyond a SIEM
   - 6th: Run this command:
     - **"sudo bash setup.sh"**
   - 7th: You are ready to go, happy hunting.
-    - **https://ip/pages/login.php**
+    - **https://ip**
   
   ---------
 
