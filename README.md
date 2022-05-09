@@ -92,11 +92,11 @@ your stack resources depends on many factors like :
 
 This table will help you to decide:
 
-| RAM     | CPU    |  DISK | EPS| Entire Need|
-| --------| ------ |-------|----|------------|
-|32GB|12|1TB|3K-5K| 40GB RAM|
-|48GB|16|2TB|5K-10K|56GB RAM|
-|64GB|24|2TB+|10K+|72GB RAM|
+| RAM     | CPU    |  DISK | EPS| Entire Need| Mode|
+| --------| ------ |-------|----|------------|-----|
+|32GB|12|1TB|3K-5K| 40GB RAM| Free|
+|48GB|16|2TB|5K-10K|56GB RAM|Paid|
+|64GB|24|2TB+|10K+|72GB RAM|paid|
 
 ⚠️ **NOTE: The Netflow module requiers a very good performance of your machine. (SSD Disks are recommended)**
 
