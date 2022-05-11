@@ -92,7 +92,7 @@ your stack resources depends on many factors like :
 
 This table will help you to decide:
 
-| RAM     | CPU    |  DISK | EPS| Entire Need| Mode|
+| RAM     | CPU    |  DISK | EPS| Entire Need| Stack|
 | --------| ------ |-------|----|------------|-----|
 |32GB|12|1TB|3K-5K| 40GB RAM| Free|
 |48GB|16|2TB|5K-10K|56GB RAM|Paid|
@@ -131,3 +131,4 @@ This table will help you to decide:
 - Adding ability to upload your configuration files from web
 - Adding ability to add replicas to your Elasticsearch form web
 - Adding Message Queuing – Kafka
+- Adding OpenCTI integration
