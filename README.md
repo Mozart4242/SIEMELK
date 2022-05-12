@@ -8,7 +8,7 @@
 
 📌 SIEMELK is built on the best of Open Source tools with extra functionality, integration stability and correlation providing enriching data from the SIEM.
 
-📌  SIEMELK IS NOT AN OPEN-SOURCE PLATFORM
+📌  SIEMELK IS **NOT** AN **OPEN-SOURCE** PLATFORM
 
 <h1 align="center">
 Lets go beyond a SIEM
