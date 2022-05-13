@@ -2,11 +2,13 @@
 SIEMELK is built on the best of Open Source tools with extra functionality, integration stability and correlation providing enriching data from the SIEM.
 Some of these tools include.
 
-### Open Distro
-Open Distro for Elasticsearch provides a powerful, easy-to-use event monitoring and alerting system, enabling you to monitor your data and send notifications automatically to your stakeholders. With an intuitive Kibana interface and powerful API, it is easy to set up and manage alerts. Build specific alert conditions using Elasticsearch’s query and scripting capabilities. Alerts help teams reduce response times for operational and security events.
+### OpenSearch
+OpenSearch is a family of software consisting of a search engine, and OpenSearch Dashboards, a data visualization dashboard for that search engine. The software started in 2021 as a fork of Elasticsearch and Kibana, with development led by Amazon Web Services.
+
+OpenSearch for Elasticsearch provides a powerful, easy-to-use event monitoring and alerting system, enabling you to monitor your data and send notifications automatically to your stakeholders. With an intuitive Kibana interface and powerful API, it is easy to set up and manage alerts. Build specific alert conditions using Elasticsearch’s query and scripting capabilities. Alerts help teams reduce response times for operational and security events.
 
 <p align="center">
- <img alt="" src="images/opendistro.png">
+ <img alt="" src="images/opensearch.png">
 </p>
 
 -----
