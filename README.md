@@ -20,7 +20,7 @@ Lets go beyond a SIEM
 ## SIEMELK Architecture
 
 <p align="center">
- <img alt="SIEMELK Logo" src="images/siemelk-arch.png">
+ <img alt="SIEMELK Logo" src="images/siemelk-arch1.png">
 </p>
 
 ## SIEMELK Features
