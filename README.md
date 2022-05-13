@@ -17,12 +17,11 @@ Lets go beyond a SIEM
 
 ## [Product Overview](features.md)
 
+## SIEMELK Architecture
+
 <p align="center">
  <img alt="SIEMELK Logo" src="images/siemelk-arch.png">
 </p>
-
-
-## SIEMELK Architecture
 
 ## SIEMELK Features
 ✔️ Open Distro for Elasticsearch + Kibana + Logstash
