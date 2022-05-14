@@ -136,6 +136,8 @@ This table will help you to decide:
 
 ✔️ To support me :)
 
+✔️ Price ?? As You Wish :)
+
 ### Crypto wallet address (Tether - USDT)
 
 **Scan this QR code:**
