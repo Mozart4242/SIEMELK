@@ -142,9 +142,7 @@ This table will help you to decide:
 
 **Scan this QR code:**
 
-<p align="center">
- <img alt="wallet" src="images/my-usdt.jpg">
-</p>
+ <img alt="wallet" src="images/my-usdt.jpg" width="400" height="400">
 
 **OR**
 
