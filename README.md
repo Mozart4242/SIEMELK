@@ -131,12 +131,19 @@ This table will help you to decide:
 |Observability Analyzer: | ❌| ✅|
 
 ------
-## Why should i get a license?
+# license?
 ✔️ To benefit the full functionality of SIEMELK
 
-✔️ To support me :)
+✔️ To get technical support
 
-✔️ Price ?? As You Wish :)
+## How to order?
+✔️ To get the last updates and special price, contact us: certeach@gmail.com
+
+## Architecture Design
+✔️ We provide network architecture design and consulting for both **IT** and **OT (SCADA)**, networks.
+
+✔️ We can help you to build your SOC (Securtiy Operations Center) based on the lastest methods available.
+
 
 ### Crypto wallet address (Tether - USDT)
 
