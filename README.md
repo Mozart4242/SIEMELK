@@ -131,6 +131,24 @@ This table will help you to decide:
 |Observability Analyzer: | ❌| ✅|
 
 ------
+## Why should i get a license?
+✔️ To benefit the full functionality of SIEMELK
+✔️ To support me :)
+
+### Crypto wallet address (Tether - USDT)
+
+Scan this QR code:
+
+<p align="center">
+ <img alt="wallet" src="images/my-usdt.jpg">
+</p>
+
+OR
+
+Send through this address:
+
+[](ethereum:0xb53e6c5B1020aBaD81EC26532b1C585071848076?req-asset=0xdac17f958d2ee523a2206206994597c13d831ec7)
+
 
 ## To Do
 - Adding ability to upload your configuration files from web
