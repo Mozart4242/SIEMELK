@@ -144,8 +144,8 @@ This table will help you to decide:
 
 ✔️ We can help you to build your SOC (Securtiy Operations Center) based on the lastest methods available.
 
-
-### Crypto wallet address (Tether - USDT)
+---------
+## Crypto wallet address (Tether - USDT)
 
 **Scan this QR code:**
 
@@ -163,7 +163,7 @@ Download The OVA template and deploy it to your VMware infrastructure.
 |-------|----|-------|
 SIEMELK-v1.0|36 GB| ova|
 
-
+---------
 
 ## To Do
 - Adding ability to upload your configuration files from web
