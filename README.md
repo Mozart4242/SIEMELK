@@ -152,9 +152,9 @@ This table will help you to decide:
 
 # Download
 Download The OVA template and deploy it to your VMware infrastructure.
-|Release|Size|Package|
-|-------|----|-------|
-SIEMELK-v1.0|36 GB| ova|
+|Release|Size|Package|VM Disk Size| VM Meomry|VM CPU|
+|-------|----|-------|-----| ---|---|
+SIEMELK-v1.0|36 GB| ova|1TB|32|16|
 
 
 
