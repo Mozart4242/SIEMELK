@@ -150,6 +150,13 @@ This table will help you to decide:
 
 **ethereum:0xb53e6c5B1020aBaD81EC26532b1C585071848076?req-asset=0xdac17f958d2ee523a2206206994597c13d831ec7**
 
+# Download
+Download The OVA template and deploy it to your VMware infrastructure.
+|Release|Size|Package|
+|-------|----|-------|
+SIEMELK-v1.0|36 GB| ova|
+
+
 
 ## To Do
 - Adding ability to upload your configuration files from web
