@@ -137,7 +137,7 @@ This table will help you to decide:
 ✔️ To get technical support
 
 ## How to order?
-✔️ To get the last updates and special price, contact us: certeach@gmail.com
+✔️ To get the last updates and special price, contact me: certeach@gmail.com
 
 ## Architecture Design
 ✔️ We provide network architecture design and consulting for both **IT** and **OT (SCADA)**, networks.
