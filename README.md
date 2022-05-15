@@ -162,6 +162,15 @@ Download The OVA template and deploy it to your VMware infrastructure.
 |Release|Size|Package|
 |-------|----|-------|
 SIEMELK-v1.0|36 GB| ova|
+[Part-01]()|4GB||
+[Part-02]()|4GB||
+[Part-03]()|4GB||
+[Part-04]()|4GB||
+[Part-05]()|4GB||
+[Part-06]()|4GB||
+[Part-07]()|4GB||
+[Part-08]()|4GB||
+[Part-09]()|4GB||
 
 ---------
 
