@@ -179,3 +179,6 @@ SIEMELK-v1.0|36 GB| ova|
 - Adding ability to add replicas to your Elasticsearch form web
 - Adding Message Queuing – Kafka
 - Adding OpenCTI integration
+
+## Contribution
+If you see any bug or have something to improve SIEMELK please file an issue.
