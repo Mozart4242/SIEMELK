@@ -145,17 +145,7 @@ This table will help you to decide:
 ✔️ We can help you to build your SOC (Securtiy Operations Center) based on the lastest methods available.
 
 ---------
-## Crypto wallet address (Tether - USDT)
 
-**Scan this QR code:**
-
- <img alt="wallet" src="images/my-usdt.jpg" width="400" height="400">
-
-**OR**
-
-💲​Send through this address:
-
-**ethereum:0xb53e6c5B1020aBaD81EC26532b1C585071848076?req-asset=0xdac17f958d2ee523a2206206994597c13d831ec7**
 
 # Download
 Download The OVA template and deploy it to your VMware infrastructure.
