@@ -24,15 +24,13 @@ Lets go beyond a SIEM
 </p>
 
 ## SIEMELK Features
-✔️ Open Distro for Elasticsearch + Kibana + Logstash
+✔️ Open Search for Elasticsearch + Kibana + Logstash
 
 ✔️ Host and Network Threat Hunting (sysmon + wazuh)
 
-✔️ Embeded IDPS Service (suricata)
+✔️ Embeded IDPS Service
 
-✔️ Netflow support (Elastiflow)
-
-✔️ SCADA/ICS Protocols support (S7comm, Modbus, DNP3, Bacnet, Profinet, ENIP)
+✔️ Netflow support 
 
 ✔️ Alerting
 
@@ -40,11 +38,11 @@ Lets go beyond a SIEM
 
 ✔️ Anomaly Detection
 
-✔️ Cyber Threat Intelligence (OpenCTI)
+✔️ Cyber Threat Intelligence 
 
-✔️ Incident Response Integration (Thehive4)
+✔️ Incident Response Integration 
 
-✔️ Observables Analyzer (Cortex)
+✔️ Observables Analyzer 
 
 ✔️ C&C connections detection
 
@@ -52,7 +50,7 @@ Lets go beyond a SIEM
 
 ✔️ Cluster Management
 
-✔️ SOAR Operations (Shuffle)
+✔️ SOAR Operations
 
 ✔️ The SIEM module supports:
 - Fortinet (Fortigate, Fortiweb)
