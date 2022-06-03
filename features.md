@@ -42,28 +42,6 @@ The structuration of the data is performed using a knowledge schema based on the
 
 ------
 
-### Message Queuing – Kafka
-Apache Kafka is a publish/subscribe message queuing system that is utilized within SIEMELK not only for its scalability but also for the following:
-
-1- Provides durable, fast and fault tolerant message streaming for handling real time data feeds.
-
-2- Compatible with Apache Nifi and the Elastic Beats family agents.
-
-3- Enables custom configuration per endpoint group by using topic declarations.
-
-4- Improving data governance and guaranteed delivery.
-
-5- Options for in flight stream data extraction and new stream creation dependent on specific triggers.
-
-6- Ability to set data retention periods per use case in case of upstream processing back pressure.
-
-
-<p align="center">
- <img alt="" src="images/kafka.png">
-</p>
-
------
-
 ### Wazuh
 Wazuh is a free and open source platform for threat detection, security monitoring, incident response and regulatory compliance. It can be used to monitor endpoints, cloud services and containers, and to aggregate and analyze data from external sources. Wazuh is used to collect, aggregate, index and analyze security data, helping organizations detect intrusions, threats and behavioral anomalies.
 
