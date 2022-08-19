@@ -24,7 +24,7 @@ Lets go beyond a SIEM
 </p>
 
 ## SIEMELK Features
-✔️ Open Search for Elasticsearch + Kibana + Logstash
+✔️ Open Search for Elasticsearch + Kibana + Logstash + Filebeat
 
 ✔️ Host and Network Threat Hunting (sysmon + wazuh)
 
@@ -43,8 +43,6 @@ Lets go beyond a SIEM
 ✔️ Incident Response Integration 
 
 ✔️ Observables Analyzer 
-
-✔️ C&C connections detection
 
 ✔️ Network Scanning module (Web-map)
 
