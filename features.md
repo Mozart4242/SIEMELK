@@ -87,3 +87,12 @@ Cortex can analyze (and triage)observables at scale using more than 100 analyzer
 <p align="center">
 <img alt="" src="images/Cortex-dash.png ">
 </p>
+
+----
+### Cluster Management
+We are using [ElasticHQ](https://www.elastichq.org/).
+ElasticHQ is an open source application that offers a simplified interface for managing and monitoring Elasticsearch clusters.
+
+<p align="center">
+<img alt="" src="https://www.elastichq.org/img/elastichq.png">
+</p>
