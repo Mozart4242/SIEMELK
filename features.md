@@ -51,14 +51,12 @@ Wazuh is a free and open source platform for threat detection, security monitori
 
 -----
 
-### Suricata
+### Suricata (IDSTower)
 Suricata is an open source threat detection engine that was developed by the Open Information Security Foundation (OISF). Suricata can act as an intrusion detection system (IDS), and intrusion prevention system (IPS), or be used for network security monitoring. It was developed alongside the community to help simplify security processes. As a free and robust tool, Suricata monitors network traffic using an extensive rule set and signature language. Suricata also features Lua scripting support to monitor more complex threats.
-
-
 
 SIEMELK provides a Suricata pipeline that performs packet capture and analysis on the local network interface, acting as a host-based IDS. The resultant data is then sent to Kafka before being ingested by Elasticsearch. The commercial SIEMELK releases extend these capabilities in the form of network and cloud tabs and multi-network interface monitoring.
 
-SIEMELK uses the power of IDSTower plus 1-year free full-featured license.
+SIEMELK uses the power of [IDSTower](https://www.idstower.com/) plus 1-year free full-featured license.
  
 Alerts can be easily configured for signature matches and there is also dashboards provided for further IDS analysis.
 
