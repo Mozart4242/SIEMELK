@@ -82,7 +82,7 @@ Lets go beyond a SIEM
 The minimum requierments to deploy the stack:
 
 - 32GB of RAM + 4GB extra (Linux and services)
-- 8 Cores of CPU is Good to go.
+- 16 Cores of CPU is Good to go.
 
 ## How to choose your stack?
 your stack resources depends on many factors like :
