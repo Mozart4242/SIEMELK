@@ -65,15 +65,15 @@ Lets go beyond a SIEM
 
 ----
 ## How to Install?
-  - 2nd: [Download OVA package](https://github.com/Mozart4242/SIEMELK/#download)
-  - 3rd: Deploy OVA package on your Virtual machine platform (Recommended: VMware ESXI, Workstation, Vsphere)
-  - 4th: Power on the VM
-  - 5th: Login as:
+  - 1st: [Download OVA package](https://github.com/Mozart4242/SIEMELK/#download)
+  - 2nd: Deploy OVA package on your Virtual machine platform (Recommended: VMware ESXI, Workstation, Vsphere)
+  - 3rd: Power on the VM
+  - 4th: Login as:
     - **user: siemelk**
     - **password: siemelk**
-  - 6th: Run this command:
+  - 5th: Run this command:
     - **"sudo bash setup.sh"**
-  - 7th: You are ready to go, happy hunting.
+  - 6th: You are ready to go, happy hunting.
     - **https://ip**
   
   ---------
@@ -131,10 +131,8 @@ This table will help you to decide:
 
 ✔️ To get technical support
 
-## How to order?
-✔️ To get the last updates and special price, contact me: certeach@gmail.com
+✔️ To get the last updates and special price
 
-## Architecture Design
 ✔️ We provide network architecture design and consulting for both **IT** and **OT (SCADA)**, networks.
 
 ✔️ We can help you to build your SOC (Securtiy Operations Center) based on the lastest methods available.
