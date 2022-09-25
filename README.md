@@ -64,20 +64,6 @@ Lets go beyond a SIEM
 - Portsecurity, ARP inspection, DHCP snooping
 
 ----
-## How to Install?
-  - 1st: [Download OVA package](https://github.com/Mozart4242/SIEMELK/#download)
-  - 2nd: Deploy OVA package on your Virtual machine platform (Recommended: VMware ESXI, Workstation, Vsphere)
-  - 3rd: Power on the VM
-  - 4th: Login as:
-    - **user: siemelk**
-    - **password: siemelk**
-  - 5th: Run this command:
-    - **"sudo bash setup.sh"**
-  - 6th: You are ready to go, happy hunting.
-    - **https://ip**
-  
-  ---------
-
 # Stack
 The minimum requierments to deploy the stack:
 
